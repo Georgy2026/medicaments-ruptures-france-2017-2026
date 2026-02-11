@@ -59,28 +59,28 @@ Les tensions d’approvisionnement représentent la majorité des événements, 
 arrêts de commercialisation restent minoritaires.
 
 ### Tension d'approvissionnement
-![Tension](screenshots/Tension_d'approvisionnement.png)
+![Tension](screenshot/Tension_d'approvisionnement.png)
 
 **Analyse :**
 Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
 arrêts de commercialisation restent minoritaires.
 
 ### Remise à disposition 
-![Remise à disposition](screenshots/Remise_a_disposition.png)
+![Remise à disposition](screenshot/Remise_a_disposition.png)
 
 **Analyse :**
 Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
 arrêts de commercialisation restent minoritaires.
 
 ### Arrêt de commercialisation
-![Arret de commercialisation](screenshots/Arret_de_commercialisation.png)
+![Arret de commercialisation](screenshot/Arret_de_commercialisation.png)
 
 **Analyse :**
 Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
 arrêts de commercialisation restent minoritaires.
 
 ### 4)Évolution des événements et prévision
-![Évolution](screenshots/evolution_evenements.png)
+![Évolution](screenshot/evolution_evenements.png)
 
 **Analyse :**
 On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
