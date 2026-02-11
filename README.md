@@ -1,6 +1,6 @@
 # medicaments-ruptures-france-2017-2026
-Analyse des événements de disponibilité des médicaments en France (2017–2026) – Power BI
-# Analyse des tensions d’approvisionnement des médicaments en France (2017–2026)
+Analyse des événements de disponibilité des médicaments en France (2014–2026) – Power BI
+# Analyse des tensions d’approvisionnement des médicaments en France (2014–2026)
 
 ## Contexte
 Depuis 2017, la France connaît une augmentation des ruptures et tensions d’approvisionnement en médicaments.  
@@ -14,7 +14,7 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 
 ## Source des données
 - data.gouv.fr – Données ouvertes sur la disponibilité des médicaments
-- Période : 2017–2026
+- Période : 2014–2026
 - Format : txt
 
 ## Outils utilisés
