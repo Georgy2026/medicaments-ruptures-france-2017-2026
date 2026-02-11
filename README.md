@@ -33,7 +33,7 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 
 ### 1)Évolution des événements et prévision
 
-![Evolution des événements et prévision](screenshot/Courbe_des_événements.png)
+![Evolution des evenements et prevision](screenshot/Courbe_des_evenements.png)
 
 **Analyse :**
 On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
