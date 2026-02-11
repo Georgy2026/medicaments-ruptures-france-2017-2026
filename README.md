@@ -31,9 +31,9 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 
 ## Aperçu du dashboard & analyses
 
-### 1)Évolution des événements et prévision
+### 1)Dashborad Synthètique
 
-![Evolution des evenements et prevision](screenshot/Courbe_des_evenements.png)
+![Synthese](screenshot/Synthese.png)
 
 **Analyse :**
 On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
@@ -42,7 +42,7 @@ avec un pic marqué après 2020, suggérant un impact des perturbations de la ch
 ---
 
 ### 2)Top 10 des laboratoires fabriquant le plus grand nombre de spécialités
-![Top 10 labos](screenshots/top10_laboratoires.png)
+![Top 10 des laboratoires fabriquant le plus grand nombre de spécialités](screenshot/Top_10_des_laboratoires_fabricants.png)
 
 **Analyse :**
 Une concentration importante des événements est observée chez un nombre limité de laboratoires,
@@ -51,7 +51,29 @@ ce qui indique un risque systémique lié à certains acteurs clés du marché.
 ---
 
 ### 3)Répartition par type d’événement
-![Répartition](screenshots/repartition_statuts.png)
+### Rupture de stock
+![Rupture_de_stock](screenshots/Rupture_de_stock.png)
+
+**Analyse :**
+Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
+arrêts de commercialisation restent minoritaires.
+
+### Tension d'approvissionnement
+![Tension](screenshots/Tension_d'approvisionnement.png)
+
+**Analyse :**
+Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
+arrêts de commercialisation restent minoritaires.
+
+### Remise à disposition 
+![Remise à disposition](screenshots/Remise_a_disposition.png)
+
+**Analyse :**
+Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
+arrêts de commercialisation restent minoritaires.
+
+### Arrêt de commercialisation
+![Arret de commercialisation](screenshots/Arret_de_commercialisation.png)
 
 **Analyse :**
 Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
@@ -66,7 +88,7 @@ avec un pic marqué après 2020, suggérant un impact des perturbations de la ch
 
 ---
 ### 5)Évolution des événements et prévision
-![Évolution](screenshots/evolution_evenements.png)
+![Evolution des evenements et prevision](screenshot/Courbe_des_evenements.png)
 
 **Analyse :**
 On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
