@@ -2,37 +2,37 @@
 Analyse des événements de disponibilité des médicaments en France (2017–2026) – Power BI
 # Analyse des tensions d’approvisionnement des médicaments en France (2017–2026)
 
-## 📌 Contexte
+## Contexte
 Depuis 2017, la France connaît une augmentation des ruptures et tensions d’approvisionnement en médicaments.  
 Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les tendances, les médicaments et les laboratoires les plus impactés.
 
-## 🎯 Objectifs
+## Objectifs
 - Analyser l’évolution des événements de disponibilité
 - Identifier les types d’événements dominants
 - Analyser les laboratoires les plus concernés
 - Mettre en évidence les tendances temporelles
 
-## 🗂️ Source des données
+## Source des données
 - data.gouv.fr – Données ouvertes sur la disponibilité des médicaments
 - Période : 2017–2026
 - Format : txt
 
-## 🛠️ Outils utilisés
+## Outils utilisés
 - Power BI
 - Power Query
 - DAX
 - Excel
 
-## 📊 Analyses réalisées
+## Analyses réalisées
 - Évolution annuelle des ruptures et tensions
 - Répartition par type d’événement
 - Top 10 des laboratoires les plus impactés
 - Analyse des remises à disposition et arrêts de commercialisation
 
-## 📈 Aperçu du dashboard & analyses
+## Aperçu du dashboard & analyses
 
 ### 1)Évolution des événements et prévision
-![Évolution](screenshots/evolution_evenements.png)
+![Evolution des événements et prévision](screenshot/Courbe des événements.png)
 
 **Analyse :**
 On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
