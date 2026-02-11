@@ -52,7 +52,7 @@ ce qui indique un risque systémique lié à certains acteurs clés du marché.
 
 ### 3)Répartition par type d’événement
 ### Rupture de stock
-![Rupture_de_stock](screenshots/Rupture_de_stock.png)
+![Rupture_de_stock](screenshot/Rupture_de_stock.png)
 
 **Analyse :**
 Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
