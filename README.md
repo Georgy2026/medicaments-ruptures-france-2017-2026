@@ -35,7 +35,7 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 
 ### 1)Dashborad Synthètique
 
-![Synthese](screenshot/Synthese.png)
+![Synthese](screenshot/Synthese_evenemrnt.png)
 
 **Analyse :**
 On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
