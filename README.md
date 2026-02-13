@@ -31,6 +31,8 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 
 ## Aperçu du dashboard & analyses
 
+### B)les laboratoires qui ont subi des évenements
+
 ### 1)Dashborad Synthètique
 
 ![Synthese](screenshot/Synthese.png)
@@ -86,9 +88,54 @@ arrêts de commercialisation restent minoritaires.
 On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
 avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
 
+### B)les laboratoires sans évenement
+### Synthèse des Non_événements
+![Synthese_de_non_evenement](screenshot/Synthese_de_non_evenement.png)
+
+**Analyse :**
+On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
+avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+
+### 1)Suspension d'autorisation
+![Autorisation suspendue](screenshot/Autorisation_suspendue.png)
+
+**Analyse :**
+On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
+avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+
 ---
-### 5)Évolution des événements et prévision
-![Evolution des evenements et prevision](screenshot/Courbe_des_evenements.png)
+### Retraits d'autorisation
+![Autorisation retiree](screenshot/Autorisation_retiree.png)
+
+**Analyse :**
+On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
+avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+
+---
+### Archivage d'autorisation
+![Autorisation_archivee](screenshot/Autorisation_archivee.png)
+
+**Analyse :**
+On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
+avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+
+---
+### Autorisation actives
+![Autorisations_actives](screenshot/Autorisations_actives.png)
+
+**Analyse :**
+On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
+avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.---
+### Abrogation d'autorisation
+![Autorisations_abrogées](screenshot/Autorisations_abrogées.png)
+
+**Analyse :**
+On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
+avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+
+---
+### Prédiction
+![Visuels_prédiction](screenshot/Visuels_prédiction.png)
 
 **Analyse :**
 On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
