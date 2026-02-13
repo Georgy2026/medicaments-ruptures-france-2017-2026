@@ -44,7 +44,7 @@ avec un pic marqué après 2020, suggérant un impact des perturbations de la ch
 ---
 
 ### 2)Top 10 des laboratoires fabriquant le plus grand nombre de spécialités
-![Top 10 des laboratoires fabriquant le plus grand nombre de spécialités](screenshot/Top_10_des_laboratoires_fabricants.png)
+![Top 10 des laboratoires au plus gros portefeuille](screenshot/Top_10_des_laboratoires_fabricants.png)
 
 **Analyse :**
 Une concentration importante des événements est observée chez un nombre limité de laboratoires,
