@@ -80,13 +80,6 @@ arrêts de commercialisation restent minoritaires.
 Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
 arrêts de commercialisation restent minoritaires.
 
-### 4)Évolution des événements et prévision
-![Évolution](screenshot/evolution_evenements.png)
-
-**Analyse :**
-On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
-avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
-
 ### B)les laboratoires sans évenement
 ### Synthèse des Non_événements
 ![Synthese_de_non_evenement](screenshot/Synthese_de_non_evenement.png)
