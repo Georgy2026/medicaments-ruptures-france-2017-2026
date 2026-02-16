@@ -26,7 +26,7 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 ## Analyses réalisées
 - Évolution annuelle des ruptures et tensions
 - Répartition par type d’événement
-- Top 10 des laboratoires les plus impactés
+- Top 5 des laboratoires les plus impactés
 - Analyse des remises à disposition et arrêts de commercialisation
 
 ## Aperçu du dashboard & analyses
