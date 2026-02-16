@@ -87,7 +87,15 @@ arrêts de commercialisation restent minoritaires.
 **Analyse :**
 Sur une période allant de 2013 au début 2026, près de 15.000 spécialités (DCI) reparties entre 529 laboratoire n'ont subi aucun événement. Le laboratoire BOIRON, 868 DCI dispose du plus gros portefeuille représentant 5,86% de tous les médicaments normo-distribués. Il est suivi dans ce top 5 par les laboratoires BIOGARAN (765,5,1%), VIATRIS SANTE(733, 4,95%), ARROW GENERIQUES(707, 4,77%) et EG LABO (612, 4,13%)
 
-### 1)Suspension d'autorisation
+### 1)Autorisation actives
+![Autorisations_actives](screenshot/Autorisations_actives.png)
+
+## Analyse :
+On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
+avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+
+---
+### 2)Suspension d'autorisation
 ![Autorisation suspendue](screenshot/Autorisation_suspendue.png)
 
 **Analyse :**
@@ -95,7 +103,7 @@ On observe une augmentation progressive des tensions d’approvisionnement à pa
 avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
 
 ---
-### Retraits d'autorisation
+### 3)Retraits d'autorisation
 ![Autorisation retiree](screenshot/Autorisation_retiree.png)
 
 **Analyse :**
@@ -103,7 +111,7 @@ On observe une augmentation progressive des tensions d’approvisionnement à pa
 avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
 
 ---
-### Archivage d'autorisation
+### 4)Archivage d'autorisation
 ![Autorisation_archivee](screenshot/Autorisation_archivee.png)
 
 **Analyse :**
@@ -111,13 +119,8 @@ On observe une augmentation progressive des tensions d’approvisionnement à pa
 avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
 
 ---
-### Autorisation actives
-![Autorisations_actives](screenshot/Autorisations_actives.png)
 
-**Analyse :**
-On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
-avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.---
-### Abrogation d'autorisation
+### 5)Abrogation d'autorisation
 ![Autorisations_abrogées](screenshot/Autorisations_abrogées.png)
 
 **Analyse :**
