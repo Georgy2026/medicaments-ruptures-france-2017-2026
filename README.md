@@ -1,4 +1,4 @@
-# medicaments-ruptures-france-2017-2026
+# medicaments-ruptures-france-2017-2026 (Debut)
 Analyse des événements de disponibilité des médicaments en France (2014–2026) – Power BI
 # Analyse des tensions d’approvisionnement des médicaments en France (2014–2026)
 
@@ -38,8 +38,7 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 ![Synthese](screenshot/Synthese_evenement.png)
 
 **Analyse :**
-On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
-avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+Sur une peériode de 2013 au début 2026, près de 1
 
 ---
 
@@ -93,8 +92,7 @@ avec un pic marqué après 2020, suggérant un impact des perturbations de la ch
 ![Synthese_de_non_evenement](screenshot/Synthese_de_non_evenement.png)
 
 **Analyse :**
-On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
-avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+Sur une période allant de 2013 au début 2026, près de 15.000 spécialités (DCI) reparties entre 529 laboratoire n'ont subi aucun événement. Le laboratoire BOIRON, 868 DCI dispose du plus gros portefeuille représentant 5,86% de tous les médicaments normo-distribués. Il est suivi dans ce top 5 par les laboratoires BIOGARAN (765,5,1%), VIATRIS SANTE(733, 4,95%), ARROW GENERIQUES(707, 4,77%) et EG LABO (612, 4,13%)
 
 ### 1)Suspension d'autorisation
 ![Autorisation suspendue](screenshot/Autorisation_suspendue.png)
