@@ -81,6 +81,7 @@ Les tensions d’approvisionnement représentent la majorité des événements, 
 arrêts de commercialisation restent minoritaires.
 
 ### B)les laboratoires sans évenement
+Le fait de ne pas avoir d'événement pouvant être perçu comme une situation de normalité, nous avons jugé utile d'approfondir l'etude en consultant également les évenements dr la table de dimension DIM INFO MEDICAMENTS à titre descriptif pour en tirer quelques éléments d'analyse
 ### Synthèse des Non_événements
 ![Synthese_de_non_evenement](screenshot/Synthese_de_non_evenement.png)
 
@@ -91,32 +92,57 @@ Sur une période allant de 2013 au début 2026, près de 15.000 spécialités (D
 ![Autorisations_actives](screenshot/Autorisations_actives.png)
 
 ## Analyse :
-On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
-avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+### Insight 1 — La stabilité est concentrée chez les grands génériqueurs
+Sur plus de 15.000 spécialités, 14.000 stables sont repartis dans 501 laboratoires, soit 74,6% de tous les laboratoires de cette étude. 
+Les laboratoires comme Biogaran, Viatris, Sandoz, Teva, Zentiva concentrent :un grand nombre de DCI, sans aucun événement déclaré. Cela suggère :une maîtrise industrielle et logistique, une robustesse des chaînes d’approvisionnement, une capacité à absorber la demande sans rupture
+
+### Insight 2 — La majorité des DCI sans événement sont sous AMM active
+Le filtre montre que la stabilité concerne surtout : des médicaments toujours commercialisés, donc réellement exposés au marché. L’absence d’événement n’est pas liée à l’inactivité réglementaire, mais à une vraie performance.
+
+### Insight 3 — Un indicateur de “non-risque” exploitable
+Cette analyse permet :
+d’identifier les zones de faible risque, de servir de baseline pour comparer avec : DCI à risque élevé, titulaires plus instables
 
 ---
 ### 2)Suspension d'autorisation
 ![Autorisation suspendue](screenshot/Autorisation_suspendue.png)
 
 **Analyse :**
-On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
-avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+Il y a aucours de la période d'étude 6 suspensions d'autorisation, touchant principalement 4 laboratoires principalement EG LABO, ZENTIVA, PFIZER
+Ce faible pourcentage de suspension d'autorisation suggère une bonne maitrise des événements aucours du cycle de vie d'un médicament: etudes de stabilité, pharmacovigilance et la maitrise des affaires réglementaires
 
 ---
 ### 3)Retraits d'autorisation
 ![Autorisation retiree](screenshot/Autorisation_retiree.png)
 
 **Analyse :**
-On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
-avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+7 Laboratoires ont vu leur autorisation retirée, les laboratoires majoritairement touchés sont ADVANZ PHARMA, MELISANA PHARMA et ZANBON FRANCE.
+Ce chiffre conforte l'analyse portée sur les suspension d'autorisation des laboratoire: Une maîtrise du cycle de vie du médicament et des événements y liés
 
 ---
 ### 4)Archivage d'autorisation
 ![Autorisation_archivee](screenshot/Autorisation_archivee.png)
 
 **Analyse :**
-On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
-avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+Ce dashboard présente les DCI n’ayant jamais fait l’objet d’un événement, associées à des AMM archivées, réparties par titulaire AMM
+
+**Indicateurs clés** :
+197 DCI sans événement, 70 laboratoires concernés, une répartition beaucoup plus fragmentée que pour les AMM actives
+
+### Insights clés
+### Insight 1 — Une stabilité résiduelle et dispersée
+Contrairement aux AMM actives, aucun laboratoire ne concentre une part dominante, la majorité des titulaires ne possèdent que 1 à 3 DCI sans événement
+👉 Cela reflète une stabilité résiduelle, liée à l’historique plutôt qu’à une stratégie active.
+
+### Insight 2 — Différence structurelle avec les AMM actives
+Les volumes sont nettement plus faibles (197 vs 14 000),Le nombre de laboratoires est aussi réduit (70 vs 501)
+👉 Les AMM archivées jouent un rôle marginal dans la disponibilité actuelle du marché.
+
+### Insight 3 — Faible enjeu opérationnel immédiat
+Ces DCI ne sont plus activement commercialisées, n’impactent pas directement la continuité des soins. Elles doivent être exclues ou pondérées dans les modèles prédictifs.
+
+### Limites et précautions méthodologiques
+Les DCI associées à des AMM archivées présentent un faible intérêt prédictif en matière de rupture, leur statut limitant leur exposition réelle au marché.
 
 ---
 
@@ -124,8 +150,22 @@ avec un pic marqué après 2020, suggérant un impact des perturbations de la ch
 ![Autorisations_abrogées](screenshot/Autorisations_abrogées.png)
 
 **Analyse :**
-On observe une augmentation progressive des tensions d’approvisionnement à partir de 2019, 
-avec un pic marqué après 2020, suggérant un impact des perturbations de la chaîne logistique.
+Ce dashboard présente les DCI n’ayant jamais fait l’objet d’un événement et associées à des autorisations de mise sur le marché abrogées, réparties par titulaire AMM.
+## Indicateurs clés : ##
+762 DCI sans événement, 134 laboratoires concernés. Une répartition hétérogène, avec une faible concentration par titulaire
+
+### Insights clés
+### Insight 1 — Un volume intermédiaire mais sans enjeu opérationnel actuel
+Comparé aux autres statuts bien inférieur aux AMM actives, supérieur aux AMM archivées
+👉 Cela reflète un historique réglementaire, plus qu’une performance actuelle.
+
+### Insight 2 — Dispersion marquée des titulaires
+Aucun laboratoire ne domine fortement, les parts individuelles restent faibles, beaucoup de titulaires n’ont que quelques DCI sans événement
+👉 Contrairement aux AMM actives, il n’existe pas ici de leaders de stabilité.
+
+### Insight 3 — Faible valeur prédictive
+Les AMM abrogées ne sont plus exposées au marché, ne contribuent pas à la continuité des soins
+👉 Leur inclusion dans un modèle prédictif biaiserait l’analyse.
 
 ---
 ### Prédiction
