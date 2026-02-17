@@ -156,7 +156,6 @@ Sur une période allant de 2013 au début 2026, près de 15.000 spécialités (D
 ### 1)Autorisation actives
 ![Autorisations_actives](screenshot/Autorisations_actives.png)
 
-## Analyse :
 ### Insight 1 — La stabilité est concentrée chez les grands génériqueurs
 Sur plus de 15.000 spécialités, 14.000 stables sont repartis dans 501 laboratoires, soit 74,6% de tous les laboratoires de cette étude. 
 Les laboratoires comme Biogaran, Viatris, Sandoz, Teva, Zentiva concentrent :un grand nombre de DCI, sans aucun événement déclaré. Cela suggère :une maîtrise industrielle et logistique, une robustesse des chaînes d’approvisionnement, une capacité à absorber la demande sans rupture
@@ -222,23 +221,21 @@ Ce dashboard présente les DCI n’ayant jamais fait l’objet d’un événemen
 ### Insights clés
 ### Insight 1 — Un volume intermédiaire mais sans enjeu opérationnel actuel
 Comparé aux autres statuts bien inférieur aux AMM actives, supérieur aux AMM archivées
-👉 Cela reflète un historique réglementaire, plus qu’une performance actuelle.
+Cela reflète un historique réglementaire, plus qu’une performance actuelle.
 
 ### Insight 2 — Dispersion marquée des titulaires
 Aucun laboratoire ne domine fortement, les parts individuelles restent faibles, beaucoup de titulaires n’ont que quelques DCI sans événement
-👉 Contrairement aux AMM actives, il n’existe pas ici de leaders de stabilité.
+Contrairement aux AMM actives, il n’existe pas ici de leaders de stabilité.
 
 ### Insight 3 — Faible valeur prédictive
 Les AMM abrogées ne sont plus exposées au marché, ne contribuent pas à la continuité des soins
-👉 Leur inclusion dans un modèle prédictif biaiserait l’analyse.
+Leur inclusion dans un modèle prédictif biaiserait l’analyse.
 
 ---
 ### C -Prédiction
 ![Visuels_prédiction](screenshot/Visuels_prédiction.png)
 
 **Analyse :**
-🔎 Lecture globale du dashboard
-
 Ce tableau de bord analyse les événements de disponibilité des médicaments en France (ruptures, arrêts, tensions…) selon le statut AMM, le temps et les laboratoires titulaires, avec une approche à la fois descriptive et prédictive.
 
 ## 1) Nombre de laboratoires sans événement par statut AMM (graphique en cascade – en haut à gauche)
