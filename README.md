@@ -1,4 +1,4 @@
-# medicaments-ruptures-france-2017-2026 (Debut)
+# medicaments-ruptures-france-2013-2026 (Debut)
 Analyse des événements de disponibilité des médicaments en France (2014–2026) – Power BI
 # Analyse des tensions d’approvisionnement des médicaments en France (2014–2026)
 
@@ -46,30 +46,28 @@ Sur une peériode de 2013 aux débuts de 2026, 953 événements ont été recens
 ![Rupture_de_stock](screenshot/Rupture_de_stock.png)
 
 **Analyse :**
-Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
-arrêts de commercialisation restent minoritaires.
+Les ruptures de stock représentent 7.5%(72) des événements sur une période de 2013 au début de 2026, avec un pic en 2025 où on a signalé jusqu'à 34 ruptures de stock, concernant au premier rang MYLAN (7), puis BIOGARAN (6),TEVA SANTE (5), VIATRIS IRLANDE (4) et LABO DELBERT (3) et 35 autres laboratoires. La rupture de stock observée chez MYLAN IRLANDE peut coïncider avec l'épuisement des médicaments de la marque, vu qu'elle est désormais connue sous le nom VIATRIS depuis 2020
 
 ### b) Tension d'approvissionnement
-![Tension](screenshot/Tension_d'approvisionnement.png)
+![Tensions](screenshot/Tension_d'approvisionnement.png)
 
 **Analyse :**
-Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
-arrêts de commercialisation restent minoritaires.
+Les 418 tensions d’approvisionnement, touchant 82 laboratoires sur une période de 2021 à 2026 représentent 43.82% de tous les événements; avec un pic de 148 ruptures en 2024. le top 5 des laboratoires les plus touchés comprend ARROW (30), EG LABO (29), VIATRIS SANTE (27),ZENTIVA SANTE (23) et BIOGARAN (22)
 
 ### c) Remise à disposition 
 ![Remise à disposition](screenshot/Remise_a_disposition.png)
 
-**Analyse :**
-Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
-arrêts de commercialisation restent minoritaires.
+**AnalyLes:** 
+Les 422 événements de remise à disposition représentent la majorité des événements c'est à dire 44.23%. Sur les 82 laboratoires qui en ont bénéficié etaient les laboratoires ARROW (35), VIATRIS (34), EG LABO, GLAXOSMITHKLINE, TEVA SANTE(28), SANDOZ (27) et BIOGARAN (21) constituent le top 5 des laboratoire dont les produits retournent à disposition des patients.
+
 
 ### d) Arrêt de commercialisation
 ![Arret de commercialisation](screenshot/Arret_de_commercialisation.png)
 
 **Analyse :**
-Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
-arrêts de commercialisation restent minoritaires.
+On a recensé 42 arrêts de commercilisation dans 12 laboratoires, ce qui représente 4,5% des événements avec un pic en 2025 (21). Les laboratoires principalement touchés sont IBSA PHAMA sur 12 spécialités, ASSISTANCE PUBLIQUE - HOPITAUX DE PARIS(9), PFIZER(4), BIOGARAN(2) et SANOFI WINTHROP (2)
 
+**Conclusion partielle:**
 ### B)les laboratoires sans évenement
 Le fait de ne pas avoir d'événement pouvant être perçu comme une situation de normalité, nous avons jugé utile d'approfondir l'etude en consultant également les évenements dr la table de dimension DIM INFO MEDICAMENTS à titre descriptif pour en tirer quelques éléments d'analyse
 ### Synthèse des Non_événements
