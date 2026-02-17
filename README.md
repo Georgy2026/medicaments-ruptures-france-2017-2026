@@ -30,7 +30,7 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 
 ## Aperçu du dashboard & analyses
 
-### A)les laboratoires qui ont subi des évenements
+### A- les laboratoires qui ont subi des évenements
 
 ### 1)Dashborad Synthètique
 
@@ -145,7 +145,7 @@ Dans l’ensemble, les résultats obtenus offrent une vision robuste et cohéren
 
 
 
-### B)les laboratoires sans évenement
+### B-les laboratoires sans évenement
 L'absence d'événement peut être perçu comme une situation de normalité. Mais, nous avons jugé utile d'approfondir l'etude en consultant également les évenements dr la table de dimension DIM INFO MEDICAMENTS à titre descriptif pour en tirer quelques éléments d'analyse
 
 ### Synthèse des Non_événements
@@ -234,7 +234,7 @@ Les AMM abrogées ne sont plus exposées au marché, ne contribuent pas à la co
 👉 Leur inclusion dans un modèle prédictif biaiserait l’analyse.
 
 ---
-### Prédiction
+### C -Prédiction
 ![Visuels_prédiction](screenshot/Visuels_prédiction.png)
 
 **Analyse :**
@@ -242,7 +242,7 @@ Les AMM abrogées ne sont plus exposées au marché, ne contribuent pas à la co
 
 Ce tableau de bord analyse les événements de disponibilité des médicaments en France (ruptures, arrêts, tensions…) selon le statut AMM, le temps et les laboratoires titulaires, avec une approche à la fois descriptive et prédictive.
 
-1️⃣ Nombre de laboratoires sans événement par statut AMM (graphique en cascade – en haut à gauche)
+## 1) Nombre de laboratoires sans événement par statut AMM (graphique en cascade – en haut à gauche)
 Ce que l’on observe
 - La majorité des laboratoires sans événement concernent des médicaments à autorisation active.
 - Les statuts abrogée, archivée, retirée ou suspendue contribuent marginalement.
@@ -255,7 +255,7 @@ Les statuts non actifs concentrent peu de laboratoires → soit parce qu’ils s
 ### Insight clé
 L’absence d’événements est fortement corrélée à un statut AMM actif, ce qui suggère une meilleure stabilité réglementaire et logistique.
 
-2️⃣ Nombre d’événements par année et statut AMM (courbe – en haut à droite)
+## 2) Nombre d’événements par année et statut AMM (courbe – en haut à droite)
 L'on peut voir:
 - Une quasi-absence d’événements avant 2020.
 - Une forte hausse à partir de 2021, avec un pic très marqué en 2024–2025, principalement sur les autorisations actives.
@@ -268,9 +268,8 @@ Les médicaments actifs sont les plus exposés, car ils sont les plus consommés
 ### Insight clé
 Le risque de rupture est devenu structurel et récent, concentré sur les AMM actives, ce qui justifie une approche prédictive plutôt que seulement descriptive.
 
-3️⃣ Nombre total de spécialités vs nombre d’événements par titulaire AMM (nuage de points – en bas à gauche)
-Ce que l’on observe
-
+## 3) Nombre total de spécialités vs nombre d’événements par titulaire AMM (nuage de points – en bas à gauche)
+Ce que l’on observe:
 Corrélation positive : plus un laboratoire a de spécialités, plus il a d’événements.
 Mais la relation n’est pas parfaitement linéaire : certains labos avec peu de spécialités ont beaucoup d’événements; d’autres très gros portefeuilles restent relativement stables
 
@@ -280,7 +279,7 @@ La taille du portefeuille à lui seul n’explique pas tout. Des facteurs intern
 ### Insight clé
 Le risque d’événement dépend à la fois du volume de spécialités et de la qualité de la chaîne d’approvisionnement du laboratoire.
 
-4️⃣ Nombre d’événements vs événements par spécialité (nuage de points – en bas à droite)
+## 4) Nombre d’événements vs événements par spécialité (nuage de points – en bas à droite)
 L’on observe une forte concentration des points en bas à gauche : peu d’événements, donc faible taux d’événements par spécialité.
 Quelques outliers avec beaucoup d’événements, mais un ratio événement/spécialité parfois faible
 
@@ -291,28 +290,24 @@ Les petits portefeuilles avec plusieurs événements sont à haut risque.
 ### Insight clé
 Le ratio événement/spécialité est un meilleur indicateur de risque que le nombre brut d’événements.
 
-5️⃣ Commentaire prédictif 
+## 5) Commentaire prédictif 
 
 Ces visualisations justifient l’utilisation d’un modèle de loi de Poisson, car :
-les événements sont discrets
-rares
-indépendants
-observés sur une période donnée
-
-Il etait ensuite judicieux de :
-la probabilité d’au moins une rupture par DCI ou laboratoire
-le nombre attendu d’événements à 3 ou 6 mois
-identifier les DCI à risque élevé
+les événements sont discrets, rares, indépendants observés sur une période donnée
+Il est judicieux pour la suite d'etudier :
+-la probabilité d’au moins une rupture par DCI ou laboratoire
+-le nombre attendu d’événements à 3 ou 6 mois
+-identifier les DCI à risque élevé
 
 ---
-## 🔍 Principaux insights
+## 🔍 Principaux insights possibles en prédiction
 - Augmentation significative des tensions après 2020
 - Concentration des événements chez certains laboratoires
 - Les remises à disposition 
 
 ## 🚀 Améliorations possibles
-- Modèle de prévision des tensions
-- Croisement avec données ANSM
+- Modèle de prévision des tensions (Avec la loi poisson)
+- Croisement avec données avec d'autres bases comme la FDA
 - Classification par classe thérapeutique
 
 ## 👤 Auteur
