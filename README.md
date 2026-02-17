@@ -1,10 +1,9 @@
 # Medicaments-ruptures-france-2013-2026 
-Analyse des événements de disponibilité des médicaments en France (2014–2026) – Power BI
-# Analyse des tensions d’approvisionnement des médicaments en France (2014–2026)
+Analyse des événements de disponibilité des médicaments en France (2013–2026) – Power BI
+# Analyse des tensions d’approvisionnement des médicaments en France (2013–2026)
 
-## Contexte
-Depuis 2017, la France connaît une augmentation des ruptures et tensions d’approvisionnement en médicaments.  
-Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les tendances, les médicaments et les laboratoires les plus impactés.
+**Résumé exécutif**
+Entre 2013 et début 2026, la disponibilité des médicaments en France s’est fortement dégradée, avec une concentration des événements chez les génériqueurs et une rupture structurelle à partir de 2021. Cette étude combine analyse descriptive, stabilité des non-événements et perspectives prédictives pour identifier les zones de risque.
 
 ## Objectifs
 - Analyser l’évolution des événements de disponibilité
@@ -14,7 +13,7 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 
 ## Source des données
 - data.gouv.fr – Données ouvertes sur la disponibilité des médicaments
-- Période : 2014–2026
+- Période : 2013–2026
 - Format : txt
 
 ## Outils utilisés
