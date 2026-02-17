@@ -310,5 +310,25 @@ Il est judicieux pour la suite d'etudier :
 - Croisement avec données avec d'autres bases comme la FDA
 - Classification par classe thérapeutique
 
+## Conclusion générale
+
+Cette étude met en évidence une lecture fine et structurée de la disponibilité des médicaments en France sur la période 2013 - début 2026, en dépassant une approche strictement événementielle pour intégrer également l’analyse des situations de normalité, c’est-à-dire l’absence d’événement.
+
+L’analyse des événements déclarés montre une dégradation nette et récente de la situation, principalement à partir de 2021, avec un point culminant en 2024–2025. Les tensions d’approvisionnement et les ruptures de stock se concentrent sur un nombre limité de laboratoires, majoritairement des génériqueurs, traduisant une fragilité structurelle des chaînes d’approvisionnement, fortement exposées aux aléas industriels, logistiques et géopolitiques.
+
+En parallèle, l’étude des non-événements apporte un éclairage complémentaire essentiel. Près de 15 000 spécialités, réparties entre 529 laboratoires, n’ont connu aucun événement sur la période étudiée. Cette stabilité concerne principalement des AMM actives, indiquant qu’il ne s’agit pas d’une absence artificielle d’événements liée à une inactivité réglementaire, mais bien d’une performance réelle en conditions de marché. Les grands génériqueurs concentrent une part importante de ces spécialités stables, suggérant une maîtrise industrielle et logistique et une capacité à absorber la demande sans générer de rupture.
+
+L’analyse par statut d’AMM confirme des différences structurelles marquées :
+
+les AMM actives concentrent à la fois la majorité des événements et la majorité des situations de stabilité, car elles sont pleinement exposées au marché ;
+
+les AMM archivées, abrogées, retirées ou suspendues jouent un rôle marginal dans la disponibilité actuelle et présentent une faible valeur prédictive, justifiant leur exclusion ou leur pondération dans les modèles prospectifs.
+
+Les analyses croisées par laboratoire et par spécialité montrent que la taille du portefeuille ne suffit pas à expliquer le risque. Le ratio événement par spécialité apparaît comme un indicateur plus pertinent que le volume brut d’événements, mettant en évidence des situations de vulnérabilité élevée chez certains acteurs à faible portefeuille, mais aussi des stratégies d’absorption efficaces chez les grands titulaires.
+
+Enfin, les résultats obtenus justifient pleinement le recours à une approche prédictive, notamment via des modèles adaptés aux événements rares tels que la loi de Poisson. Une telle modélisation permettrait d’estimer la probabilité d’occurrence future des événements, d’identifier les DCI ou laboratoires à risque élevé et d’anticiper les tensions à court et moyen terme.
+
+Dans son ensemble, cette étude propose une vision robuste, cohérente et exploitable de la disponibilité des médicaments, en articulant données historiques, analyse de la stabilité et perspectives prédictives. Elle constitue une base solide pour éclairer les décisions en matière de gestion des risques, de politique du médicament et de continuité des soins.
+
 ## Auteur
 Georgy Djounda – Data Analyst / Pharmacien
