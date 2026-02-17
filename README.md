@@ -1,6 +1,3 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/Georgy2026/medicaments-ruptures-france-2017-2026)
-![GitHub stars](https://img.shields.io/github/stars/Georgy2026/medicaments-ruptures-france-2017-2026)
-
 # Medicaments-ruptures-france-2013-2026 
 Analyse des événements de disponibilité des médicaments en France (2014–2026) – Power BI
 # Analyse des tensions d’approvisionnement des médicaments en France (2014–2026)
