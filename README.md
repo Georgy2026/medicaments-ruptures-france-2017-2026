@@ -2,7 +2,7 @@
 Analyse des événements de disponibilité des médicaments en France (2013–2026) – Power BI
 # Analyse des tensions d’approvisionnement des médicaments en France (2013–2026)
 
-**Résumé exécutif**
+## Résumé exécutif
 Entre 2013 et début 2026, la disponibilité des médicaments en France s’est fortement dégradée, avec une concentration des événements chez les génériqueurs et une rupture structurelle à partir de 2021. Cette étude combine analyse descriptive, stabilité des non-événements et perspectives prédictives pour identifier les zones de risque.
 
 ## Objectifs
