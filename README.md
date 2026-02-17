@@ -1,4 +1,4 @@
-# medicaments-ruptures-france-2013-2026 (Debut)
+# medicaments-ruptures-france-2013-2026 
 Analyse des événements de disponibilité des médicaments en France (2014–2026) – Power BI
 # Analyse des tensions d’approvisionnement des médicaments en France (2014–2026)
 
