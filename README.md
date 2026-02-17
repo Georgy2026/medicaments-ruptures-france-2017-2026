@@ -67,6 +67,12 @@ Les 422 événements de remise à disposition représentent la majorité des év
 **Analyse :**
 On a recensé 42 arrêts de commercilisation dans 12 laboratoires, ce qui représente 4,5% des événements avec un pic en 2025 (21). Les laboratoires principalement touchés sont IBSA PHAMA sur 12 spécialités, ASSISTANCE PUBLIQUE - HOPITAUX DE PARIS(9), PFIZER(4), BIOGARAN(2) et SANOFI WINTHROP (2)
 
+### e) Evenements orphelins
+![Evenements Orphelins](screenshot/Evenements_orphelins.png)
+
+**Analyse :**
+Un nombre limité d’événements (19) n’a pu être rattaché, ni à un titulaire, ni à une spécialité médicamenteuse du référentiel CIS utilisé. Ceci serait en raison d’évolutions du référentiel et de décalages temporels entre les sources, ou des valeurs manquantes. Ces événements ont été exclus de l’analyse principale.
+
 **Conclusion partielle:**
 ### B)les laboratoires sans évenement
 Le fait de ne pas avoir d'événement pouvant être perçu comme une situation de normalité, nous avons jugé utile d'approfondir l'etude en consultant également les évenements dr la table de dimension DIM INFO MEDICAMENTS à titre descriptif pour en tirer quelques éléments d'analyse
