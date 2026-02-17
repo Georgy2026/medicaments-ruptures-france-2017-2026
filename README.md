@@ -32,7 +32,7 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 
 ### A- les laboratoires qui ont subi des évenements
 
-### 1)Dashborad Synthètique
+### 1) Dashborad Synthètique
 
 ![Synthese](screenshot/Synthese_evenement.png)
 
@@ -89,7 +89,7 @@ Ces résultats confirment le rôle central des génériqueurs dans les situation
 ### c) Remise à disposition 
 ![Remise à disposition](screenshot/Remise_a_disposition.png)
 
-**AnalyLes:** 
+**Analyse:** 
 Les remises à disposition représentent 422 événements, soit 44,23 % du total, constituant ainsi la catégorie la plus fréquente.
 
 Elles concernent 82 laboratoires, dont principalement :
