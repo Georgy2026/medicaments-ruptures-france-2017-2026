@@ -300,15 +300,15 @@ Il est judicieux pour la suite d'etudier :
 -identifier les DCI à risque élevé
 
 ---
-## 🔍 Principaux insights possibles en prédiction
+## Principaux insights possibles en prédiction
 - Augmentation significative des tensions après 2020
 - Concentration des événements chez certains laboratoires
 - Les remises à disposition 
 
-## 🚀 Améliorations possibles
+## Améliorations possibles
 - Modèle de prévision des tensions (Avec la loi poisson)
 - Croisement avec données avec d'autres bases comme la FDA
 - Classification par classe thérapeutique
 
-## 👤 Auteur
+## Auteur
 Georgy Djounda – Data Analyst / Pharmacien
