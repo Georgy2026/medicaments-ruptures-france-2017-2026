@@ -37,7 +37,7 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 ![Synthese](screenshot/Synthese_evenement.png)
 
 **Analyse :**
-Sur une période de 2013 au début 2026, 953 événements ont été recensés, impliquant 142 laboratoires sur 671 (21,2%). L'année la plus agitée a été 2025, avec 580 événements. Les 5 laboratoitres ayant subi le plus d'événement sont ARROW (66), suivi de VIATRIS SANTE (64), EG LABO (58), BIOGARAN(54),TEVA SANTE(51) puis SANDOZ(45).
+Sur une période allant de 2013 au début 2026, 953 événements ont été recensés, impliquant 142 laboratoires sur 671 (21,2%). L'année la plus agitée a été 2025, avec 580 événements. Les 5 laboratoitres ayant subi le plus d'événement sont ARROW (66), suivi de VIATRIS SANTE (64), EG LABO (58), BIOGARAN(54),TEVA SANTE(51) puis SANDOZ(45).
 
 ---
 
