@@ -21,7 +21,6 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 - Power BI
 - Power Query
 - DAX
-- Excel
 
 ## Analyses réalisées
 - Évolution annuelle des ruptures et tensions
@@ -31,49 +30,40 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 
 ## Aperçu du dashboard & analyses
 
-### B)les laboratoires qui ont subi des évenements
+### A)les laboratoires qui ont subi des évenements
 
 ### 1)Dashborad Synthètique
 
 ![Synthese](screenshot/Synthese_evenement.png)
 
 **Analyse :**
-Sur une peériode de 2013 au début 2026, près de 1
+Sur une peériode de 2013 aux débuts de 2026, 953 événements ont été recensés, impliquant 142 laboratoires sur 671 (21,2%). L'année la plus agitée a été 2025 avec plus de 580 événements. Les 5 laboratoitres ayant subi le plus d'événement sont ARROW (66), suivi de VIATRIS SANTE (64), EG LABO (58), BIOGARAN(54),TEVA SANTE(51) puis SANDOZ(45).
 
 ---
 
-### 2)Top 10 des laboratoires fabriquant le plus grand nombre de spécialités
-![Top 10 des laboratoires au plus gros portefeuille](screenshot/Top_10_des_laboratoires_fabricants.png)
-
-**Analyse :**
-Une concentration importante des événements est observée chez un nombre limité de laboratoires,
-ce qui indique un risque systémique lié à certains acteurs clés du marché.
-
----
-
-### 3)Répartition par type d’événement
-### Rupture de stock
+### 2) Répartition par type d’événement
+### a) Rupture de stock
 ![Rupture_de_stock](screenshot/Rupture_de_stock.png)
 
 **Analyse :**
 Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
 arrêts de commercialisation restent minoritaires.
 
-### Tension d'approvissionnement
+### b) Tension d'approvissionnement
 ![Tension](screenshot/Tension_d'approvisionnement.png)
 
 **Analyse :**
 Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
 arrêts de commercialisation restent minoritaires.
 
-### Remise à disposition 
+### c) Remise à disposition 
 ![Remise à disposition](screenshot/Remise_a_disposition.png)
 
 **Analyse :**
 Les tensions d’approvisionnement représentent la majorité des événements, tandis que les
 arrêts de commercialisation restent minoritaires.
 
-### Arrêt de commercialisation
+### d) Arrêt de commercialisation
 ![Arret de commercialisation](screenshot/Arret_de_commercialisation.png)
 
 **Analyse :**
