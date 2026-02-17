@@ -37,7 +37,20 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 ![Synthese](screenshot/Synthese_evenement.png)
 
 **Analyse :**
-Sur une période allant de 2013 au début 2026, 953 événements ont été recensés, impliquant 142 laboratoires sur 671 (21,2%). L'année la plus agitée a été 2025, avec 580 événements. Les 5 laboratoitres ayant subi le plus d'événement sont ARROW (66), suivi de VIATRIS SANTE (64), EG LABO (58), BIOGARAN(54),TEVA SANTE(51) puis SANDOZ(45).
+Analyse
+
+Sur la période allant de 2013 au début de l’année 2026, un total de 953 événements de disponibilité a été recensé. Ces événements concernent 142 laboratoires distincts, soit 21,2 % des 671 laboratoires présents dans le référentiel. L’année 2025 se distingue nettement comme la plus impactée, avec 580 événements, traduisant une forte dégradation de la disponibilité des médicaments sur cette période.
+
+Les laboratoires les plus touchés en volume d’événements sont :
+
+ARROW (66 événements),
+VIATRIS SANTÉ (64),
+EG LABO (58),
+BIOGARAN (54),
+TEVA SANTÉ (51),
+suivis de SANDOZ (45).
+
+Ces résultats soulignent une concentration des événements sur un nombre restreint d’acteurs, principalement positionnés sur le marché des médicaments génériques.
 
 ---
 
@@ -46,36 +59,97 @@ Sur une période allant de 2013 au début 2026, 953 événements ont été recen
 ![Rupture_de_stock](screenshot/Rupture_de_stock.png)
 
 **Analyse :**
-Les ruptures de stock représentent 7.5%(72) des événements sur une période de 2013 au début de 2026, avec un pic en 2025 où on a signalé jusqu'à 34 ruptures de stock, concernant au premier rang MYLAN (7), puis BIOGARAN (6),TEVA SANTE (5), VIATRIS IRLANDE (4) et LABO DELBERT (3) et 35 autres laboratoires. La rupture de stock observée chez MYLAN IRLANDE peut coïncider avec l'épuisement des médicaments de la marque, vu qu'elle est désormais connue sous le nom VIATRIS depuis 2020
+Les ruptures de stock représentent 72 événements, soit 7,5 % de l’ensemble des événements observés entre 2013 et début 2026. Un pic marqué est observé en 2025, avec 34 ruptures de stock signalées, confirmant le caractère exceptionnel de cette année.
+
+Les laboratoires les plus concernés sont :
+
+-MYLAN (7 événements),
+-BIOGARAN (6),
+-TEVA SANTÉ (5),
+-VIATRIS IRLANDE (4),
+-LABORATOIRE DELBERT (3),
+auxquels s’ajoutent 35 autres laboratoires touchés de manière plus ponctuelle.
+
+Les ruptures attribuées à MYLAN peuvent être interprétées à la lumière de la disparition progressive de la marque au profit de VIATRIS depuis 2020, ce qui a pu générer des situations transitoires d’épuisement des stocks ou de requalification des titulaires.
 
 ### b) Tension d'approvissionnement
 ![Tensions](screenshot/Tension_d'approvisionnement.png)
 
 **Analyse :**
-Les 418 tensions d’approvisionnement, touchant 82 laboratoires sur une période de 2021 à 2026 représentent 43.82% de tous les événements; avec un pic de 148 ruptures en 2024. le top 5 des laboratoires les plus touchés comprend ARROW (30), EG LABO (29), VIATRIS SANTE (27),ZENTIVA SANTE (23) et BIOGARAN (22)
+Les tensions d’approvisionnement constituent une part majeure des événements recensés, avec 418 occurrences, soit 43,82 % du total. Elles concernent 82 laboratoires sur la période 2021–2026, traduisant une problématique récente mais persistante. L’année 2024 apparaît comme la plus critique, avec 148 tensions signalées.
+
+Les laboratoires les plus affectés sont :
+
+-ARROW (30),
+-EG LABO (29),
+-VIATRIS SANTÉ (27),
+-ZENTIVA SANTÉ (23),
+-BIOGARAN (22).
+
+Ces résultats confirment le rôle central des génériqueurs dans les situations de tension, probablement en lien avec des chaînes d’approvisionnement fortement internationalisées.
 
 ### c) Remise à disposition 
 ![Remise à disposition](screenshot/Remise_a_disposition.png)
 
 **AnalyLes:** 
-Les 422 événements de remise à disposition représentent la majorité des événements c'est à dire 44.23%. Sur les 82 laboratoires qui en ont bénéficié etaient les laboratoires ARROW (35), VIATRIS (34), EG LABO, GLAXOSMITHKLINE, TEVA SANTE(28), SANDOZ (27) et BIOGARAN (21) constituent le top 5 des laboratoire dont les produits retournent à disposition des patients.
+Les remises à disposition représentent 422 événements, soit 44,23 % du total, constituant ainsi la catégorie la plus fréquente.
 
+Elles concernent 82 laboratoires, dont principalement :
+
+-ARROW (35),
+-VIATRIS (34),
+-EG LABO,
+-GLAXOSMITHKLINE,
+-TEVA SANTÉ (28),
+-SANDOZ (27),
+-BIOGARAN (21).
+
+Ce volume élevé de remises à disposition traduit une dynamique de sortie de crise, mais également une instabilité chronique, avec des alternances fréquentes entre tension, rupture et retour à une situation normale.
 
 ### d) Arrêt de commercialisation
 ![Arret de commercialisation](screenshot/Arret_de_commercialisation.png)
 
 **Analyse :**
-On a recensé 42 arrêts de commercilisation dans 12 laboratoires, ce qui représente 4,5% des événements avec un pic en 2025 (21). Les laboratoires principalement touchés sont IBSA PHAMA sur 12 spécialités, ASSISTANCE PUBLIQUE - HOPITAUX DE PARIS(9), PFIZER(4), BIOGARAN(2) et SANOFI WINTHROP (2)
+Un total de 42 arrêts de commercialisation a été recensé, soit 4,5 % des événements, impliquant 12 laboratoires. L’année 2025 concentre à elle seule 21 arrêts, ce qui constitue un niveau particulièrement élevé.
 
+Les laboratoires les plus concernés sont :
+
+-IBSA PHARMA (12 spécialités),
+-Assistance Publique – Hôpitaux de Paris (9),
+-PFIZER (4),
+-BIOGARAN (2),
+-SANOFI WINTHROP (2).
+
+Ces arrêts peuvent refléter des choix stratégiques, des contraintes industrielles, ou une rentabilité insuffisante de certaines spécialités.
 ### e) Evenements orphelins
 ![Evenements Orphelins](screenshot/Evenements_orphelins.png)
 
 **Analyse :**
-Un nombre limité d’événements (19) n’a pu être rattaché, ni à un titulaire, ni à une spécialité médicamenteuse du référentiel CIS utilisé. Ceci serait en raison d’évolutions du référentiel et de décalages temporels entre les sources, ou des valeurs manquantes. Ces événements ont été exclus de l’analyse principale.
+Un nombre limité d’événements (19) n’a pu être rattaché ni à un titulaire d’AMM, ni à une spécialité médicamenteuse du référentiel CIS utilisé.
+
+Ces événements s’expliquent principalement par :
+
+-des évolutions du référentiel (codes CIS obsolètes ou retirés),
+-des décalages temporels entre les sources,
+-ou des valeurs manquantes dans les données d’origine.
+
+Compte tenu de leur faible volume et de leur impossibilité de rattachement fiable, ces événements ont été exclus de l’analyse principale.
 
 **Conclusion partielle:**
+
+L’analyse met en évidence une dégradation marquée de la disponibilité des médicaments à partir de 2021, culminant en 2025, année caractérisée par une augmentation significative des ruptures, des tensions d’approvisionnement et des arrêts de commercialisation.
+
+Les événements se concentrent sur un nombre restreint de laboratoires, majoritairement des génériqueurs, soulignant une vulnérabilité structurelle des chaînes d’approvisionnement pour ces acteurs.
+
+Les événements orphelins, bien que marginaux en volume, sont intégrés aux données globales mais ne peuvent pas être ventilés selon les dimensions analytiques en raison de limites du référentiel CIS. Leur présence n’altère pas les tendances observées et témoigne des enjeux classiques de synchronisation et d’évolution des référentiels dans les analyses longitudinales.
+
+Dans l’ensemble, les résultats obtenus offrent une vision robuste et cohérente des dynamiques de disponibilité des médicaments sur la période étudiée.
+
+
+
 ### B)les laboratoires sans évenement
-Le fait de ne pas avoir d'événement pouvant être perçu comme une situation de normalité, nous avons jugé utile d'approfondir l'etude en consultant également les évenements dr la table de dimension DIM INFO MEDICAMENTS à titre descriptif pour en tirer quelques éléments d'analyse
+L'absence d'événement peut être perçu comme une situation de normalité. Mais, nous avons jugé utile d'approfondir l'etude en consultant également les évenements dr la table de dimension DIM INFO MEDICAMENTS à titre descriptif pour en tirer quelques éléments d'analyse
+
 ### Synthèse des Non_événements
 ![Synthese_de_non_evenement](screenshot/Synthese_de_non_evenement.png)
 
