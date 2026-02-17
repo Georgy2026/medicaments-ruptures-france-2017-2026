@@ -37,8 +37,6 @@ Ce projet analyse les données ouvertes de data.gouv.fr afin d’identifier les 
 ![Synthese](screenshot/Synthese_evenement.png)
 
 **Analyse :**
-Analyse
-
 Sur la période allant de 2013 au début de l’année 2026, un total de 953 événements de disponibilité a été recensé. Ces événements concernent 142 laboratoires distincts, soit 21,2 % des 671 laboratoires présents dans le référentiel. L’année 2025 se distingue nettement comme la plus impactée, avec 580 événements, traduisant une forte dégradation de la disponibilité des médicaments sur cette période.
 
 Les laboratoires les plus touchés en volume d’événements sont :
